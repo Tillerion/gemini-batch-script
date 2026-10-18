@@ -1,0 +1,17 @@
+# Dependencies and local configuration
+node_modules/
+.env
+.env.*
+!.env.example
+
+# Generated downloads, exports, and temporary files
+downloads/
+exports/
+work/
+*.zip
+*.log
+
+# Operating system files
+.DS_Store
+Thumbs.db
+Desktop.ini
