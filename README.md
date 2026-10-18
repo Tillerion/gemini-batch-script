@@ -45,7 +45,7 @@ node tests/core.test.cjs
 每次修改按下面的顺序操作：
 
 1. 在此项目目录修改文件，功能变更时同步更新脚本头部的 `@version` 和说明。
-2. 打开 GitHub Desktop，选择 **Gemini Batch Script**。
+2. 打开 GitHub Desktop，选择 **gemini-batch-script**。
 3. 在 **Changes** 查看本次修改；点击文件可以看到具体差异。
 4. 在 **Summary** 写一句修改说明，例如“修复图片下载重试”。
 5. 点击 **Commit to main**，保存一个本地版本。
